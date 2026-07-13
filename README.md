@@ -1,0 +1,1 @@
+research about misunderstand between segmentation models and segmentation for modelling. focusing on detect the misunderstand while segmentation for smaller sample to achive higher metrics and how to deal with it
