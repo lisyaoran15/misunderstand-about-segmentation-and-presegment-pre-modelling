@@ -1,0 +1,14 @@
+# Bỏ qua toàn bộ thư mục chứa data
+data/
+datasets/
+
+# Bỏ qua các file dữ liệu có đuôi cụ thể nằm ở bất cứ đâu
+*.csv
+*.xlsx
+*.xls
+*.json
+*.sql
+*.sqlite3
+
+data/
+models/
